@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68d9c1bd68a40fa4894c8eb7fd6d6d9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startUI: {instanceID: 0}
+  - gameUI: {fileID: 5391986446724871813, guid: 8be665d0c23c9e540a2f3ca498f5c087,
+      type: 3}
+  - winUI: {instanceID: 0}
+  - loseUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
